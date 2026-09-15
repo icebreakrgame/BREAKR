@@ -1,7 +1,9 @@
-echo "# BREAKR" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/icebreakrgame/BREAKR.git
-git push -u origin main
+<!DOCTYPE html>
+<html>
+<head>
+    <title>I'm Not Broken</title>
+</head>
+<body>
+    <h1>I'm not broken</h1>
+</body>
+</html>
